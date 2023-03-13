@@ -4,7 +4,7 @@ from redbot.core import commands
 
 
 class Insulte(commands.Cog):
-    """Système très poli."""
+    """Système très poli par nano."""
 
     def __init__(self):
         self.headers = {
