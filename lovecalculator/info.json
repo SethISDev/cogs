@@ -1,17 +1,16 @@
 {
   "author": [
-    "Bobloy",
-    "SnappyDragon"
+    "Lux"
   ],
-  "min_bot_version": "3.3.0",
-  "description": "Calculate the love percentage for two users. Shows gif result and description of their love",
+  "min_bot_version": "2.3.2",
+  "description": "Calcule le pourcentage d'amour entre deux personnes",
   "hidden": false,
-  "install_msg": "Thank you for installing LoveCalculator. Love is in the air.\n Get started with `[p]load lovecalculator`, then `[p]help LoveCalculator`",
+  "install_msg": "EXTENSION GIT INSTALLEE",
   "requirements": [
     "beautifulsoup4"
   ],
-  "short": "Calculate love percentage for two users.",
-  "end_user_data_statement": "This cog uses the core Bank cog. It store no End User Data otherwise.",
+  "short": "Calcule le pourcentage d'amour entre deux utilisateurs.",
+  "end_user_data_statement": "Lux.",
   "tags": [
     "bobloy",
     "fun",
