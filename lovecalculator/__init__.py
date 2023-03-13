@@ -1,5 +1,4 @@
-from .lovecalculator import LoveCalculator
+from .lovecalc import LoveCalc
 
-
-def setup(bot):
-    bot.add_cog(LoveCalculator(bot))
+async def setup(bot):
+        bot.add_cog(LoveCalc(bot))
