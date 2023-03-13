@@ -4,7 +4,7 @@ from redbot.core import commands
 
 
 class Insulte(commands.Cog):
-    """Système très poli par nano."""
+    """Systeme tres poli par nano."""
 
     def __init__(self):
         self.headers = {
@@ -21,7 +21,7 @@ class Insulte(commands.Cog):
 
     @commands.command()
     async def insulte(self, ctx, user: discord.Member):
-        """Dis leuurs ce que tu penses d'eux !"""
+        """Dis leuurs ce que tu penses !"""
         if not user:
             await ctx.send_help()
             return
